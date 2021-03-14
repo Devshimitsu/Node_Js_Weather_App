@@ -18,7 +18,7 @@
 
 - Just, Clone this repository -
 ```
-$ git clone https://github.com/Devshimitsu/PyQR.git
+$ git clone https://github.com/Devshimitsu/Node_Js_Weather_App.git
 ```
 
 - Change to cloned directory  -
