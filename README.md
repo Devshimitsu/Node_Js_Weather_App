@@ -12,6 +12,7 @@
 
 <p align="center"></p>
 
+### Before Installation
 - Get Api From https://openweathermap.org/ and paste it in server.js 
 
 ### Installation For Linux
