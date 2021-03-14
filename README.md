@@ -1,11 +1,58 @@
-# simple-nodejs-weather-app
-Simple Node.js Command Line Weather Application
+<!-- Devshimitsu -->
 
-* Check out the **[Live Demo](https://simple-nodejs-weather-app-irhhpddsku.now.sh/)**
-* Read the full tutorial on how to build this application at [codeburst.io](https://codeburst.io)
-* Run the web app locally:
+<p align="center">
+  <img src="https://i.ibb.co/qJk06vk/dev.png">
+</p>
+
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Author-Devshimitsu-cyan?style=flat-square">
+  <img src="https://img.shields.io/badge/Written%20In-JavaScript-cyan?style=flat-square">
+</p>
+
+<p align="center"></p>
+
+
+
+### Installation For Linux
+
+- Just, Clone this repository -
 ```
-node server.js
-// Now open your browser and visit: localhost:3000
+$ git clone https://github.com/Devshimitsu/PyQR.git
 ```
-![gif](https://github.com/bmorelli25/simple-nodejs-weather-app/blob/master/giphy.gif?raw=true 'website gif')
+
+- Change to cloned directory  -
+```
+$ cd PyQR
+$ npm install
+$ npm start
+```
+- Open Browser And Type http://localhost:3000/
+
+
+### Installation For windows
+
+- Just, Download this repository 
+- open cmd and type 
+```
+npm install 
+npm start
+```
+
+
+<h3 align="center">
+:: Workflow ::
+</h3>
+<p align="center">
+<img src="https://imgur.com/Ff0By5m.png"/>
+</p>
+
+
+
+
+### Find Me on :
+<p align="left">
+  <a href="https://github.com/Devshimitsu" target="_blank"><img src="https://img.shields.io/badge/Github-Devshimitsu-green?style=for-the-badge&logo=github"></a>
+  <a href="https://www.instagram.com/devshimitsu" target="_blank"><img src="https://img.shields.io/badge/IG-%40devshimitsu-red?style=for-the-badge&logo=instagram"></a>
+  
+</p>
