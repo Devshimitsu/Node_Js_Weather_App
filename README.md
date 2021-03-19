@@ -24,7 +24,7 @@ $ git clone https://github.com/Devshimitsu/Node_Js_Weather_App.git
 
 - Change to cloned directory  -
 ```
-$ cd PyQR
+$ cd Node_Js_Weather_App
 $ npm install
 $ npm start
 ```
