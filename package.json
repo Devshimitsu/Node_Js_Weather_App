@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bmorelli25/simple-nodejs-weather-app.git"
+    "url": "git+https://github.com/Devshimitsu/Node_Js_Weather_App.git"
   },
   "author": "Devshimitsu",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/bmorelli25/simple-nodejs-weather-app/issues"
+    "url": "https://github.com/Devshimitsu/Node_Js_Weather_App/issues"
   },
-  "homepage": "https://github.com/bmorelli25/simple-nodejs-weather-app#readme",
+  "homepage": "https://github.com/Devshimitsu/Node_Js_Weather_App#readme",
   "dependencies": {
     "body-parser": "^1.17.2",
     "express": "^4.15.3",
