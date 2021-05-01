@@ -12,6 +12,8 @@
 
 <p align="center"></p>
 
+## <a href="https://devshimitsu-weather-app.herokuapp.com/">Live Demo</a> 👈
+
 ### Before Installation
 - Get Api From https://openweathermap.org/ and paste it in server.js 
 
